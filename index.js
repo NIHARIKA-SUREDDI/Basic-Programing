@@ -10,3 +10,13 @@ function isPrime(num) {
 
 console.log(isPrime(11)); 
 console.log(isPrime(4));  
+
+
+
+function isEvenOdd(num) {
+    return num % 2 === 0;
+}
+
+console.log(isEvenOdd(10)); 
+console.log(isEvenOdd(7));  git add index.js
+
